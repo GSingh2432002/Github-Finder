@@ -10,4 +10,4 @@ GitHub Finder makes it super easy to find any random GitHub user and see their w
 * `CSS`
 * `JavaScript`
 
-### Live Demo: https://github-finder-iu027vehp-gaurav-singhs-projects-de470f27.vercel.app
+### Live Demo: https://githubfinderbygks.netlify.app/
