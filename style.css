@@ -6,7 +6,7 @@
   --blue:#4daded;
   --yellow:#f39c13;
   --text-color:#9a999e;
-  --dark-grey:#3a3942;
+  --dark-grey:#343438;
   --medium-grey:#95a5a6;
   --light-grey:#eeeeee;
   --white:#fff;
@@ -22,7 +22,7 @@
 
 body {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   background: #f6f8fa;
   color: var(--dark-grey);
 }
